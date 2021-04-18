@@ -33,4 +33,4 @@
 なお、関係者は、管理責任者に対して「西粟倉森林管理責任者情報」に記載された連絡先より、森林管理のあらゆることについて意見や要望などを伝えることができる。管理責任者は、内容に応じて協議などの対応を行なう。
 
 ## 情報公開
-本計画書は、インターネットにて公開される。
+本計画書は、インターネットにて公開される。なお、[ウェブサイト](https://hyakumori.github.io/Nishiawakura_FM_Documents/forestmanagementplan)に公開されているものが最新とする。2021年度以降のものにつき、過去のバージョンや変更点は[Github](https://github.com/hyakumori/Nishiawakura_FM_Documents/blob/main/forestmanagementplan.md)にて確認が可能である。

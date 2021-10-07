@@ -1,0 +1,27 @@
+name: 作成の提案
+description: 新たに作成すべきもの
+title: "[提案]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ありがとうございます。上記タイトルと以下のフォームに入力をお願いします。
+  - type: dropdown
+    id: document
+    attributes:
+      label: 関係書類（任意）
+      description: 関係しそうな書類を選択してください
+      options:
+        - 森林管理計画書
+        - 西粟倉森林管理モニタリング表
+        - 西粟倉森林管理責任者情報
+        - 百年の森林づくり事業 施工基本仕様書
+      multiple: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 提案内容
+      description: 具体的な内容を記述してください。
+    validations:
+      required: true

@@ -1,30 +1,29 @@
-name: 書類上の不備・問題点等
-description: 不備や課題など
-title: "[Bug]: "
-labels: ["bug"]
+name: 疑問点など
+description: 明確にしたいところ
+title: "[疑問点]: "
+labels: ["question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        ありがとうございます。上記タイトルと以下のフォームに入力をお願いします。
   - type: dropdown
     id: document
     attributes:
       label: 該当書類
-      description: 不備や問題点がある書類を選択してください
+      description: 疑問点がある書類を選択してください
       options:
         - 森林管理計画書
         - 西粟倉森林管理モニタリング表
         - 西粟倉森林管理責任者情報
         - 百年の森林づくり事業 施工基本仕様書
+        - その他
     validations:
       required: true
   - type: textarea
     id: detail
     attributes:
-      label: 不備や問題点
-      description: 具体的な不備や問題点を記述してください。
-      placeholder: Tell us what you see!
-      value: ""
+      label: 内容
+      description: 具体的な疑問点を記述してください
     validations:
       required: true

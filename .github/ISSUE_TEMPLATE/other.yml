@@ -1,0 +1,16 @@
+name: その他
+description: コメントや感想など
+title: "[その他]: "
+labels: ["other"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ありがとうございます。上記タイトルと以下のフォームに入力をお願いします。
+  - type: textarea
+    id: detail
+    attributes:
+      label: コメント
+      description: 以下にコメントや感想を記述してください
+    validations:
+      required: true

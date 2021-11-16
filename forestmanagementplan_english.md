@@ -50,5 +50,3 @@
 
 ## Information Disclosure
 　This plan will be made available on the Internet. The latest version is available on the [website](https://hyakumori.github.io/Nishiawakura_FM_Documents/forestmanagementplan). Past versions and changes can be checked on [Github](https://github.com/hyakumori/Nishiawakura_FM_Documents/blob/main/forestmanagementplan.md).  
-
-Translated with www.DeepL.com/Translator (free version)

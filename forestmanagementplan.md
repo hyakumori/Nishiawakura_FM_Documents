@@ -56,7 +56,7 @@
 
 ## 管理責任者
 　本計画およびFSC認証の管理責任者は、[「西粟倉森林管理責任者情報」](https://hyakumori.github.io/Nishiawakura_FM_Documents/managerinfo)に記載する。なお、管理責任者を変更する際は、管理責任者が後任者に本計画書およびFSCの認証につき説明し、確実な引継ぎを行なうための期間を設ける。管理責任者は、いかなる贈収賄行為にも関わらない。  
-　なお、関係者は、管理責任者に対して「西粟倉森林管理責任者情報」に記載された連絡先より、いつでも森林管理のあらゆることについて意見や要望、苦情などを伝えることができる。管理責任者は、内容に応じて協議などの対応を行なう。  
+　なお、関係者は、管理責任者に対して「西粟倉森林管理責任者情報」に記載された連絡先より、いつでも森林管理のあらゆることについて意見や要望、苦情などを伝えることができる。管理責任者は、内容に応じて協議などの対応を行なう。なお、FSCのグループ認証に関する規定については別途[「グループ管理規定」](https://hyakumori.github.io/Nishiawakura_FM_Documents/groupmanagement)にて定めるものとする。  
 
 ## 情報公開
 　本計画書は、インターネットにて公開される。なお、[ウェブサイト](https://hyakumori.github.io/Nishiawakura_FM_Documents/forestmanagementplan)に公開されているものが最新とする。2021年度以降のものにつき、過去のバージョンや変更点は[Github](https://github.com/hyakumori/Nishiawakura_FM_Documents/blob/main/forestmanagementplan.md)にて確認が可能である。  

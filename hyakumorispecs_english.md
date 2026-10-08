@@ -139,4 +139,4 @@ The height of the pile should be less than 2.5 m. In some cases, a stand should 
 
 ## 13. Construction standards for land preparation, planting, and mowing 
 Construction standards for land preparation, planting, and mowing ### 13-1.
-Construction standards for land preparation, planting, and mowing shall be in accordance with the separate special specifications.
+Construction standards for land preparation, planting, and mowing shall be in accordance with the separate Silviculture Specifications.
